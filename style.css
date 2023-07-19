@@ -228,40 +228,131 @@ position: relative;
 .fav-1{
     display: flex;
     align-items: center;gap: 2px;
+    border-radius: 50px;
+background: #FFF;
+
 }
+
 .fav-2{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-3{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-4{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-5{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-6{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-7{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-7{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
 }
 .fav-8{
     display: flex;
-    align-items: center;
+    align-items: center;border-radius: 50px;
+    background: #FFF;
 }
 .fav-9{
     display: flex;
     align-items: center;
+    border-radius: 50px;
+background: #FFF;
+}
+ 
+
+.fav-1:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-2:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-3:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-4:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-5:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-6:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-7:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-8:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.fav-9:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+/* footer section style */
+footer{
+    text-align: center;
+    background: #0B0223; 
+    color: #FFF;
+}
+
+
+.foot-icon {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 50px;
+}
+.footer-1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+.footer-2{
+    display: flex;
+    gap: 50px;
+    justify-content: center;margin-bottom: 20px;
+}
+.footer-3{
+    display: flex;
+    justify-content: center;
+    gap: 50px;margin-bottom: 20px;
+
 }
